@@ -4,6 +4,7 @@
 #include <avr/io.h>
 #include <util/delay.h>
 #include <stdio.h>
+#include <avr/interrupt.h>
 #include "Sensors.h"
 
 volatile uint16_t Left_Slots;
