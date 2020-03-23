@@ -1,10 +1,3 @@
-/*
- * Sensors.c
- *
- * Created: 3/22/2020 5:05:30 PM
- *  Author: IEEE R&D
- */ 
-
 #include <avr/io.h>
 #include "Sensors.h"
 
